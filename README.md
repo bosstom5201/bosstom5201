@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @bosstom5201
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-🙋‍♂️ All about me is at My Website
+
+-🔭 I’m currently working on Something Intresting.
+
+-🌱 I’m currently learning MERN Stack
+
+-👯 I’m looking to collaborate for Dev Projects
+
+-🤔 I’m looking for help with Competitive Programming
+
+-💬 Ask me about anything, Except Maths 😅
+
+-👨‍💻 Life Hack: Learn new tech 🔥 and share what you have learned 🎉
+
+-⚡ Fun fact: I waste most of my time playing games
 
 <!---
 bosstom5201/bosstom5201 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
