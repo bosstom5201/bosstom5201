@@ -58,7 +58,7 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=said7388&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="GitHub status" />
 </p>
 
 <p>
