@@ -58,12 +58,7 @@
 ### My Github Stats:
 
 <p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
-
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=said7388&theme=algolia" alt="said7388" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=bosstom5201&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 </p>
 
 ---
