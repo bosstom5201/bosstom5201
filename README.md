@@ -73,16 +73,11 @@
 <tr>
   <td width="50%" align="center">
     ### My Github Stats:
-
-<p>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=said7388&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</p>
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=said7388&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </td>
   <td width="50%" align="center">
-  <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
-</p>
-    
+    ### Top Usage Languages:
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
   </td>
 </tr>
 
