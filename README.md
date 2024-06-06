@@ -69,7 +69,7 @@
 
 ---
 
-
+<table>
 <tr>
   <td width="50%" align="center">
     ### My Github Stats:
@@ -80,6 +80,7 @@
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
   </td>
 </tr>
+</table>
 
 <h2 align="center">🏆 𝗚𝗶𝘁𝗛𝘂𝗯 𝗧𝗿𝗼𝗽𝗵𝗶𝗲𝘀 🏆</h2>
 
