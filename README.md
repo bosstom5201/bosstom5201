@@ -53,7 +53,7 @@
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
-<table>
+<table width="100%" align="center">
 <tr>
   <td width="50%" align="center">
     <h3>My Github Stats:</h3>
