@@ -53,14 +53,16 @@
 ![VS Code](https://img.shields.io/badge/VisualStudio-2C2B30?style=flastic&logo=VisualStudioCode&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-f7f7f7?style=flastic&logo=Postman&logoColor=FF6C37)
 
+<hr />
+
 <table width="100%" align="center">
 <tr>
   <td width="50%" align="center">
-    <h3>My Github Stats:</h3>
+    <h2>My Github Stats:</h2>
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=said7388&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </td>
   <td width="50%" align="center">
-     <h3>Top Usage Languages:</h3>
+     <h2>Top Usage Languages:</h2>
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=said7388&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
   </td>
 </tr>
